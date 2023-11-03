@@ -1,3 +1,3 @@
 # espscoreboard
 Here you can find the code and the documentation about my Scoreboard project.
-![Illustration](circuit diagram.png)
+![Illustration](circuit_diagram.png)
